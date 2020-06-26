@@ -1,0 +1,51 @@
+.main {
+    background-color: steelblue;
+    border: 2px solid lightblue;
+    width: 250px;
+    height: 250px;
+    border-radius: 5%;
+    margin: 0 auto;
+    overflow: hidden;
+
+}
+h3 {
+    text-align: right;
+    font-size: large;
+    color: skyblue;
+}
+.r {
+    text-align: center;
+}
+.result {
+    margin: 0 auto;
+    width: 95%;
+    height: 30px;
+}
+.c {
+    text-align: center;
+}
+.btnc {
+    width: 95%;
+    margin: 0 auto;
+    height: 20px;
+    font-size: medium;
+    font-weight: bold;
+    color: teal
+}
+.b {
+    text-align: center;
+}
+.btn {
+    margin: 2px;
+    width: 50px;
+    font-size: medium;
+    font-weight: bold;
+    color: teal;
+}
+.btnl {
+    margin: 2px;
+    width: 45%;
+    font-size: medium;
+    font-weight: bold;
+    color: teal;
+}
